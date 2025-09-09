@@ -1,0 +1,4 @@
+# la liste des fichiers à ignorer et qui ne seront pas transmis au dépôt distant
+secrets.txt
+*.class
+Wordle-Game/
